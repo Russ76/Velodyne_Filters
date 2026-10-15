@@ -1,6 +1,6 @@
 # Velodyne_Filters
 
-## A pair of filters for indoor and outdoor use
+## A pair of filters for indoor and outdoor use for VLP16
 
 We bought a couple older Velodyne VLP16 Lidar units from eBay. The prices weren't high, nothing like they cost when they were new! It could be, though, that the bearings are worn and the main lidar shaft is slightly wobbly. This can do bad things to lidar points, when the processing computer figures that some points must have come from very far away!  If your robot is using the lidar pointcloud for ICP odometry, these stray points can make the program stumble and fail.
 
