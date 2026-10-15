@@ -17,7 +17,11 @@ If you need instructions for making a cable to attach the Velodyne VLP16 to your
 ## Commands:
 
 Inside workspace folder: git clone www.github.com/russ76/velodyne_filter.git
+
 colcon build
+
 source install/setup.bash
+
 ros2 run pcl_filter pcl_filter
+
 ros2 run lidar_filter_package lidar_filter_node
