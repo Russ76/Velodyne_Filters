@@ -16,7 +16,7 @@ If you need instructions for making a cable to attach the Velodyne VLP16 to your
 
 ## Commands:
 
-Inside workspace folder: git clone www.github.com/russ76/velodyne_filter.git
+Inside workspace folder: git clone www.github.com/russ76/velodyne_filters.git
 
 colcon build
 
